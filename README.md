@@ -1,2 +1,3 @@
-# admin.elischool.com
+# Daashka
+
 Dashnyam Tsogtbaatar

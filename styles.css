@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #1c252c;
+    padding: 15px;
+    text-align: center;
+}
+
+.logo {
+    width: 150px;
+}
+
+.container {
+    width: 80%;
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.status-box {
+    background: #20c997;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.booked {
+    font-weight: bold;
+}
+
+.info-text {
+    font-size: 14px;
+    color: #333;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.document-info h3 {
+    margin: 10px 0 5px;
+    font-size: 18px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background: #f1f1f1;
+}
+
+footer {
+    background: #1c252c;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.footer-links {
+    margin: 10px 0;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.footer-link {
+    font-size: 14px;
+}
